@@ -1,13 +1,13 @@
-# Upi-fraud-detection-
-💳 UPI Fraud Detection
+# Upi-fraud-detection
+💳*UPI Fraud Detection*
 
 A machine learning project aimed at detecting fraudulent UPI transactions using data analysis, feature engineering, and classification models.
 
-🧠 Project Overview
+🧠 *Project Overview*
 
 This project focuses on identifying fraudulent transactions in UPI (Unified Payments Interface) systems. The workflow includes comprehensive data preprocessing, feature engineering, exploratory data analysis (EDA), and model training using various classification algorithms.
 
-🚀 Steps & Workflow
+🚀 *Steps & Workflow*
 1. Data Analysis
 
 -Loaded and explored the dataset to understand the structure and distribution of data.
@@ -63,7 +63,7 @@ This project focuses on identifying fraudulent transactions in UPI (Unified Paym
 
 -Compared results to identify the best-performing model.
 
-🧩 Tech Stack
+🧩*Tech Stack*
 
 Languages: Python
 
@@ -71,7 +71,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 Tools: Jupyter Notebook / Google Colab
 
-📊 Results & Insights
+📊 *Results & Insights*
 
 Feature engineering significantly improved model accuracy.
 
@@ -79,7 +79,7 @@ Random Forest achieved the best performance in detecting fraudulent transactions
 
 Temporal and transaction-type features were strong indicators of potential fraud.
 
-🧪 Future Improvements
+🧪 *Future Improvements*
 
 -Implement advanced models like XGBoost or LightGBM.
 
