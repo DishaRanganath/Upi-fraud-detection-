@@ -1,5 +1,5 @@
 # Upi-fraud-detection
-##💳*UPI Fraud Detection*
+💳##*UPI Fraud Detection*
 
 A machine learning project aimed at detecting fraudulent UPI transactions using data analysis, feature engineering, and classification models.
 
